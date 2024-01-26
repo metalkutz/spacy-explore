@@ -1,6 +1,7 @@
 import spacy
-
-nlp = spacy.load('es_core_news_sm')
+# Load the Spanish model pipeline 
+nlp = spacy.load('es_core_news_sm') # foccused on efficiency
+# nlp = spacy.load('es_dep_news_trf') # foccused on accuracy
 
 sentence = "Mi nombre es Juan y quiero comprar un boleto a Madrid"
 
