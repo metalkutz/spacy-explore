@@ -20,5 +20,6 @@ Existen distintos ejemplos de modelos disponibles. En nuestro caso utilizaremos 
 - [es_core_news_lg](https://spacy.io/models/es#es_core_news_lg)
 - [es_dep_news_trf](https://spacy.io/models/es#es_dep_news_trf)
 
-
+# [Course](https://course.spacy.io/)
+En este repositorio se encuentra un [course](https://course.spacy.io/) sobre el uso de spacy sobre el cual se basa este repositorio
 
